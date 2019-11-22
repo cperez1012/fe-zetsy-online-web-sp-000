@@ -58,11 +58,6 @@ p {
     padding: 1px;
 }
 
-#press img:hover {
-	border: 5px red solid;
-	background: grey;
-	padding: 1px;
-}
 
 .small {
     font-size: 0.8em;
@@ -74,3 +69,10 @@ footer {
     background: #fff;
 }
 /* Write all remaining styles here */
+#press img:hover {
+	border: 5px red solid;
+	background: grey;
+	padding: 1px;
+}
+
+
