@@ -58,7 +58,7 @@ p {
     padding: 1px;
 }
 
-#press:hover img {
+#press img:hover {
 	background: grey;
 	padding: 1px;
 }
