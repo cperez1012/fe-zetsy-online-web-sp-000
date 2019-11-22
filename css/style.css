@@ -21,14 +21,6 @@ body {
 	padding: 0 45px 20px;
 }
 
-header a {
-    color: rgb(152,173,166);
-    text-decoration: none;
-}
-
-header a:hover {
-	color: rgb(111,127,122);
-}
 
 h1 {
     padding-bottom: 10px;
@@ -37,6 +29,15 @@ h1 {
     font-weight: normal;
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
+}
+
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(111,127,122);
 }
 
 #featured img {
