@@ -58,6 +58,11 @@ p {
     padding: 1px;
 }
 
+#press:hover img {
+	background: grey;
+	padding: 1px;
+}
+
 .small {
     font-size: 0.8em;
 }
