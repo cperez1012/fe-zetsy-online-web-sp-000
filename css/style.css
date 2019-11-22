@@ -71,6 +71,6 @@ footer {
 /* Write all remaining styles here */
 #press img:hover {
 	border: 5px red solid;
-	background: grey;
-	padding: 1px;
+	/*background: grey;
+	padding: 1px;*/
 }
