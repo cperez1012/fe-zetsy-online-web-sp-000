@@ -21,10 +21,6 @@ body {
 	padding: 0 45px 20px;
 }
 
-a {
-    background: transparent;
-}
-
 header a {
     color: rgb(152,173,166);
     text-decoration: none;
